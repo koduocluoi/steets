@@ -1,2 +1,5 @@
-# steets
-String To Everything &amp; Everything To String
+# String Manipulation Done 'RIGHT'
+
+Add description
+
+How to use
